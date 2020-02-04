@@ -1,0 +1,7 @@
+unzip: Cat_Runner
+
+Unzip: CatRunner_Data, MonoBleedingEdge, and Unity Player. Bring each folder into the Cat_Runner directory
+
+Select CatRunner.exe
+
+Dock(Cat) Runner should load
